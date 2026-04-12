@@ -67,8 +67,8 @@ Portfólio moderno com design responsivo e foco em performance e experiência do
 ---
 
 ### 📊 Aplicação Full Stack  
-🔗 https://yourprojectlink.com  
-Aplicação completa com autenticação, integração com base de dados e arquitetura escalável.
+🔗 https://nwdigital.vercel.app 
+Empresa digital profissional NextWave.vercel.app
 
 ---
 
